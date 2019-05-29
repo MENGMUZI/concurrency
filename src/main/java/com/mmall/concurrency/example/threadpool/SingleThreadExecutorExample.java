@@ -1,4 +1,4 @@
-package com.mmall.concurrency.threadpool;
+package com.mmall.concurrency.example.threadpool;
 
 import lombok.extern.slf4j.Slf4j;
 
